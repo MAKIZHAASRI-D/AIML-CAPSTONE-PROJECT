@@ -77,3 +77,6 @@ The model performance is evaluated using:
 2. Install dependencies:
    ```bash
    pip install pandas numpy seaborn matplotlib scikit-learn
+3.run
+```bash
+python survival_chance.py
